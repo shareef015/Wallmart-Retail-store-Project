@@ -1,1 +1,9 @@
-# Walmart-Retail-store-Project
+1.	Data Gathering: Gather the sales data for each store, along with other relevant data such as promotions, discounts, seasonality, and holidays, if available. Gather data on the store's location, customer demographics, and other relevant factors.
+2.	Data Cleaning and Preparation: Clean and prepare the data by removing any duplicates, missing values, or outliers. Also, create new features such as lagged sales data, seasonality, and holidays, if relevant.
+3.	Exploratory Data Analysis: Perform exploratory data analysis to understand the data distribution, patterns, and relationships between different variables. This can help identify any trends, seasonality, or other patterns in the data.
+4.	Model Selection: Selected the appropriate model for forecasting sales data. In this case, ARIMA and SARIMAX models are suitable since they can handle time series data and capture the trend, seasonality, and other relevant factors that affect sales.
+5.	Model Training and Testing: Train the selected models on the sales data and test their performance using a holdout dataset. Evaluate the performance of each model using metrics
+6.	Model Tuning: Fine-tune the selected model parameters to optimize the model's performance.
+7.	Forecasting: Use the trained and optimized models to forecast the sales for each store for the next 12 weeks. Created visualization charts and graphs to present the sales forecast to the stakeholders.
+8.	Reporting and Recommendations: Prepare a detailed report with insights and recommendations based on the forecasted sales data. The report can include information such as which stores are likely to experience high demand, which stores need to increase their inventory, and which stores need to reduce their inventory. Additionally, the report can include recommendations on how each store can improve its sales performance based on the insights gained from the data.
+9.	Present the results and the report to the stakeholders: Finally, present the results and the report to the stakeholders in a clear and concise manner, highlighting the main findings, recommendations, and actionable insights.
